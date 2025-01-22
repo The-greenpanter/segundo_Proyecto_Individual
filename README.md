@@ -41,7 +41,6 @@ En el análisis de correlaciones, se estudian las relaciones entre las variables
 
 ### Estructura del repo
 
-.
 ├── README.md
 ├── data
 │   ├── Internet.xlsx
